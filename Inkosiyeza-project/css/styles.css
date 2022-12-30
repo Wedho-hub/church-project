@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: "Ubuntu";
+}
+
+h1{
+    font-family: "Sacramento";
+    font-size: 5rem;
+}
+
+/* cover section */
+.cover-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: url(https://media.gettyimages.com/id/10190344/photo/grandfather-reading-with-children.jpg?s=1024x1024&w=gi&k=20&c=gNjy8C9FpfiVtfigPUh8AxIdvvJ6odTVKIZf4j6Ffxo=);
+}
+
+main{
+    position: absolute;
+    top: 270%;
+    width: 200px;
+}
+
+#btn-welcome{
+    position: absolute;
+    top: 700%;
+    left: 43%;
+    margin-top: 8%;
+}
